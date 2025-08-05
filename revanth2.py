@@ -1,0 +1,1 @@
+print('hello my name is data scientist revanth specialized in python, sql,') 
